@@ -10,11 +10,11 @@
 - ###### Much more...
 
 ## Things to know:
-- ###### Python 2.7
+- ###### Python 3.7
 
 ## IDE:
 - ###### VS Code
 
 ## P.S:
-- ###### I developed this project in 2019, there may be some errors due to the end-of-life of Python 2.7 & some APIs used in this project. Feel free to contact me for more information regarding this project.
+- ###### I developed this project in 2019 and is not maintained anymore, there may be some errors in this project. Feel free to contact me for more information regarding this project.
 - ###### To enable auto start on boot, use windows task scheduler. Create a task that upon login will trigger the alex.
